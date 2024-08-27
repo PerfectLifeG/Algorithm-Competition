@@ -1,0 +1,8 @@
+[
+	{
+		"test": "5\nred\ngreen\nred\nred\nblue\n"
+	},
+	{
+		"test": "3\nred\nblue\nyellow\n"
+	}
+]

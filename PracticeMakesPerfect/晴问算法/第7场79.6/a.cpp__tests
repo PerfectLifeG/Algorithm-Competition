@@ -1,0 +1,14 @@
+[
+	{
+		"test": "2\nab\nac\n"
+	},
+	{
+		"test": "5\nbc\nac\nca\nbb\nba\n"
+	},
+	{
+		"test": "6\nab\nab\nab\nac\nbb\nbc\n"
+	},
+	{
+		"test": "6\nbb\nbb\nbb\nbc\ncb\nab\n"
+	}
+]

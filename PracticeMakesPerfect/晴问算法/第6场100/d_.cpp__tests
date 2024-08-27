@@ -1,0 +1,17 @@
+[
+	{
+		"test": "ab\n?a\n"
+	},
+	{
+		"test": "abc\ncb?\n"
+	},
+	{
+		"test": "x??\nabc\n"
+	},
+	{
+		"test": "x?c\n?bc\n"
+	},
+	{
+		"test": "asba?ahajasj\naaaaaaaaaaaa\n"
+	}
+]

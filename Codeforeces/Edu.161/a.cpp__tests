@@ -1,0 +1,14 @@
+[
+	{
+		"test": "4\n1\na\nb\nc\n2\naa\nbb\naa\n10\nmathforces\nluckforces\nadhoccoder\n3\nacc\nabd\nabc\n"
+	},
+	{
+		"test": "1\n1\na\na\na\n"
+	},
+	{
+		"test": "1\n1\na\nb\na\n"
+	},
+	{
+		"test": "1\n2\naa\nbc\nad\n"
+	}
+]

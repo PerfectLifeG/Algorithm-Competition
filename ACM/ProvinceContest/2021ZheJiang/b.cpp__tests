@@ -1,0 +1,26 @@
+[
+	{
+		"test": "3\nabc\n"
+	},
+	{
+		"test": "3\naaa\n"
+	},
+	{
+		"test": "4\nacac\n"
+	},
+	{
+		"test": "3\naca\n"
+	},
+	{
+		"test": "4\nabcd\n"
+	},
+	{
+		"test": "7\nabcdefg\n"
+	},
+	{
+		"test": "1\na\n"
+	},
+	{
+		"test": "2\naa\n"
+	}
+]

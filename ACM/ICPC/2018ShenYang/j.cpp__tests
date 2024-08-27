@@ -1,0 +1,5 @@
+[
+	{
+		"test": "2\n8\nbool a;\nchar b;\nint c;\nlong long d;\n__int128 e;\nfloat f;\ndouble g;\nlong double h;\n1\nint a[1000];\n"
+	}
+]

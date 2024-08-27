@@ -1,0 +1,11 @@
+[
+	{
+		"test": "1\ns3://hdu-oj-bucket/problem=1/type=data/\n\n"
+	},
+	{
+		"test": "1\ns3://hdu-oj-bucket/problem1/type=data\n"
+	},
+	{
+		"test": "1\ns3://hdu-oj-bucket/problem1/type=data///\n"
+	}
+]

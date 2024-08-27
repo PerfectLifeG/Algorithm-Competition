@@ -1,0 +1,20 @@
+[
+	{
+		"test": "3 1\n(I)\nbackspace\n"
+	},
+	{
+		"test": "3 1\n(I)\ndelete\n"
+	},
+	{
+		"test": "3 1\n()I\ndelete\n\n"
+	},
+	{
+		"test": "3 1\n()I\nbackspace\n"
+	},
+	{
+		"test": "3 1\nI()\nbackspace\n"
+	},
+	{
+		"test": "3 1\nI()\ndelete\n"
+	}
+]

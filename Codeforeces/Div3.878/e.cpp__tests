@@ -1,0 +1,11 @@
+[
+	{
+		"test": "2\ncodeforces\ncodeblocks\n5 7\n3\n1 5\n1 6\n1 7\n1 9\n3\n3\ncool\nclub\n2 5\n2 1 2 2 3\n2 2 2 2 4\n1 2\n3\n3\n"
+	},
+	{
+		"test": "1\nlalxzxillkf\nvpfpxabqlng\n13 1\n1 10\n"
+	},
+	{
+		"test": "1\nggj\ncmk\n2 6\n2 2 1 2 3\n3\n1 3\n3\n2 2 2 2 1\n3\n\n"
+	}
+]

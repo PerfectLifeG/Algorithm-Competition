@@ -1,0 +1,14 @@
+[
+	{
+		"test": "8 59\nAAA BBB 10\nBBB AAA 20\nAAA CCC 40\nDDD EEE 5\nEEE DDD 70\nFFF GGG 30\nGGG HHH 20\nHHH FFF 10\n"
+	},
+	{
+		"test": "8 70\nAAA BBB 10\nBBB AAA 20\nAAA CCC 40\nDDD EEE 5\nEEE DDD 70\nFFF GGG 30\nGGG HHH 20\nHHH FFF 10\n"
+	},
+	{
+		"test": "10 100\nN W 77\nR B 35\nM Q 49\nH C 27\nA R 63\nO W 26\nK Y 11\nI D 29\nQ S 62\nD X 35\n"
+	},
+	{
+		"test": "10 100\nT R 97\nB L 75\nP T 67\nS N 53\nW Z 6\nF J 24\nA F 32\nD R 19\nW S 8\nF S 49\n"
+	}
+]

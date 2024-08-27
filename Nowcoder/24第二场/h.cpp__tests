@@ -1,0 +1,16 @@
+[
+	{
+		"correct_answers":
+		[
+			"3"
+		],
+		"test": "6 1 1\nASAWDD\n"
+	},
+	{
+		"correct_answers":
+		[
+			"10"
+		],
+		"test": "4 0 0\nWWWS\n"
+	}
+]

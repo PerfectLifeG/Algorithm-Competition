@@ -1,0 +1,52 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+int change(char *c);
+
+int main(){
+  int a,b,i,j;
+  int sum1=0,sum2=0;
+  int u,v;//u是A  v是B
+  char s[11000];
+  char s1[11000],s2[11000];
+  int x=0,y=0,flag=0;
+  int len;
+  scanf("%s ",&s1);
+  gets(s2);
+  u=change(s1);
+  v=change(s2);
+  if(u==-1)
+        printf("? + ");
+  else
+        printf("%d + ",u);
+  if(v==-1)
+        printf("? = ");
+  else
+        printf("%d = ",v);
+  if(u==-1||v==-1)
+        printf("?\n");
+   else
+        printf("%d\n",u+v);
+}
+int change(char *c)
+{
+   int len,i,sum=0;
+   for(i=0;c[i]!='\0';i++)
+   {
+      if(c[i]>='0' && c[i]<='9')
+	  {
+	   
+		sum=sum*10+(c[i]-'0');
+	  }
+	  else{
+	     return -1;
+	  }
+   }
+   if(sum>=1 && sum<=1000)
+   {
+	   
+	   return sum;
+   }
+   else
+	   return -1;
+}

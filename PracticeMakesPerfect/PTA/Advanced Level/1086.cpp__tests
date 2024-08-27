@@ -1,0 +1,5 @@
+[
+	{
+		"test": "6\nPush 1\nPush 2\nPush 3\nPop\nPop\nPush 4\nPop\nPop\nPush 5\nPush 6\nPop\nPop\n"
+	}
+]

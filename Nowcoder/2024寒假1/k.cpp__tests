@@ -1,0 +1,11 @@
+[
+	{
+		"test": "3\n1 ABCDE\n2 AECDB\n3 BCDEA\n"
+	},
+	{
+		"test": "5\n1 AEDCB\n5 ACBDE\n4 BCDEA\n5 EDCBA\n3 CEBDA\n"
+	},
+	{
+		"test": "2\n2 ABCDE\n2 EDCBA\n"
+	}
+]

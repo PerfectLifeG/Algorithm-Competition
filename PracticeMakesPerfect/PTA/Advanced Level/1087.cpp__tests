@@ -1,0 +1,5 @@
+[
+	{
+		"test": "6 7 HZH\nROM 100\nPKN 40\nGDN 55\nPRS 95\nBLN 80\nROM GDN 1\nBLN ROM 1\nHZH PKN 1\nPRS ROM 2\nBLN HZH 2\nPKN GDN 1\nHZH PRS 1\n"
+	}
+]
